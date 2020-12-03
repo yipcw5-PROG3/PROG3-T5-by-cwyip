@@ -16,5 +16,5 @@ cache:
 deploy:
   provider: heroku
   api_key: 082fc187-c4b3-41a9-93ff-c832bf3d4126
-  app: PROG3-T5-by-cwyip
+  app: prog3-t5-by-cwyip
   skip_cleanup: true
